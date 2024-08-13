@@ -12,7 +12,7 @@ ESPDIC is taken from:
 ## Transformations
 
 1) `EO 15000 Tekstaro` contains the most common Esperanto words from the wiktionary page, in an easy to copy and compute format.
-2) `EO 15000 Tekstaro filtered with ESPDIC` contains the same words, but only those who have an entry in ESPDIC. This is to further clean-up the list from proper names.
+2) `EO 15000 Tekstaro filtered with ESPDIC` contains the same words, but only those who have an entry in ESPDIC. This is to further clean-up the list from proper names and to remove compound words that are overly represented in the corpus.
 3) `EO 15000 Tekstaro filtered with ESPDIC with English translation` is the same as the previous document, but with English translations directly included. Format: `Esperanto word : English translation 1, English translation 2`
 
 ## License

@@ -3,17 +3,17 @@ Esperanto frequency list based on the 15000 most common words of Tekstaro (Esper
 ## Sources
 
 Words are taken from:
-https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Esperanto/Tekstaro_2023
+- https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Esperanto/Tekstaro_2023
 
 ESPDIC is taken from:
-http://www.denisowski.org/Esperanto/ESPDIC/espdic_readme.html
-http://www.denisowski.org/Esperanto/ESPDIC/espdic.txt
+- http://www.denisowski.org/Esperanto/ESPDIC/espdic_readme.html
+- http://www.denisowski.org/Esperanto/ESPDIC/espdic.txt
 
 ## Transformations
 
-`EO 15000 Tekstaro` contains the most common Esperanto words from the wiktionary page, in an easy to copy and compute format.
-`EO 15000 Tekstaro filtered with ESPDIC` contains the same words, but only those who have an entry in ESPDIC. This is to further clean-up the list from proper names.
-`EO 15000 Tekstaro filtered with ESPDIC with English translation` is the same as the previous document, but with English translations directly included. Format: `Esperanto word : English translation 1, English translation 2`
+1) `EO 15000 Tekstaro` contains the most common Esperanto words from the wiktionary page, in an easy to copy and compute format.
+2) `EO 15000 Tekstaro filtered with ESPDIC` contains the same words, but only those who have an entry in ESPDIC. This is to further clean-up the list from proper names.
+3) `EO 15000 Tekstaro filtered with ESPDIC with English translation` is the same as the previous document, but with English translations directly included. Format: `Esperanto word : English translation 1, English translation 2`
 
 ## License
 
